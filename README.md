@@ -24,17 +24,17 @@ This assembly code perfroms Monoalphabetic substitution encryption to any string
 ## Getting Started
 
 ### Prerequisites 
-
+Have an 8086 simulator
 
 ### Installing
-
-
-
+* Download the repo content 
+* Extract the content
+* Use an 8086 emulator to run the code
 ### Executing program
-
+![video](Uploading emulator screen (191x63 chars) 2023-05-24 06-16-05.mp4)
 
 ## Author
-
+#Moustafa Daebis
 
 
 ## Acknowledgments
