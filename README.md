@@ -31,7 +31,6 @@ Have an 8086 simulator
 * Extract the content
 * Use an 8086 emulator to run the code
 ### Executing program
-![video](video.mp4)
 
 
 https://github.com/Moustafa-Daebis/Monoalphabetic-Substitution-Encryption/assets/100102025/0611e64c-2cc5-40e6-be3b-512c45174e6e
