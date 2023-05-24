@@ -13,7 +13,7 @@
 * [Acknowledgments](#acknowledgments)
 
 ## Description
-This assembly code perfroms Monoalphabetic substitution encryption to any string typed in by the user then performs dencryption of the encrypted string to show the original string  
+This assembly code perfroms Monoalphabetic substitution encryption to any string typed in by the user then performs dencryption of the encrypted string to show the original string. 
 
 ## Features
 * Monoalphabetic substitution encryption, each lowercase alphabetic letter is substituted by another letter according to the following table:
