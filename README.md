@@ -16,7 +16,10 @@
 This assembly code perfroms Monoalphabetic substitution encryption to any string typed in by the user then performs dencryption of the encrypted string to show the original string  
 
 ## Features
+* Monoalphabetic substitution encryption, each lowercase alphabetic letter is substituted by another letter according to the following table:
+![image](image.png)
 
+* Spaces are omitted if entered with uppercase characters and numbers being ignored.
 
 ## Getting Started
 
@@ -37,7 +40,6 @@ This assembly code perfroms Monoalphabetic substitution encryption to any string
 ## Acknowledgments
 
 # Monoalphabetic-Substitution-Encryption
-Monoalphabetic substitution encryption, each lowercase alphabetic letter is substituted by another letter according to the following table:
-![image](image.png)
 
-Spaces are omitted if entered with uppercase characters and numbers being ignored.
+
+
