@@ -31,15 +31,13 @@ Have an 8086 simulator
 * Extract the content
 * Use an 8086 emulator to run the code
 ### Executing program
-![video](Uploading emulator screen (191x63 chars) 2023-05-24 06-16-05.mp4)
+![video](Uploading video.mp4…)
 
 ## Author
 #Moustafa Daebis
 
 
 ## Acknowledgments
-
-# Monoalphabetic-Substitution-Encryption
 
 
 
