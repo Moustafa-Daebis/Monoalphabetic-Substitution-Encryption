@@ -1,4 +1,42 @@
 # Monoalphabetic-Substitution-Encryption
+
+
+
+## Table of content
+* [Table of Content](#table-of-content)
+* [Description](#description)
+* [Features](#features)
+* [Prerequisites](#prerequisites)
+* [Installing](#installing)
+* [Executing program](#executing-program)
+* [Author](#author)
+* [Acknowledgments](#acknowledgments)
+
+## Description
+
+
+## Features
+
+
+## Getting Started
+
+### Prerequisites 
+
+
+### Installing
+
+
+
+### Executing program
+
+
+## Author
+
+
+
+## Acknowledgments
+
+# Monoalphabetic-Substitution-Encryption
 Monoalphabetic substitution encryption, each lowercase alphabetic letter is substituted by another letter according to the following table:
 ![image](image.png)
 
