@@ -36,11 +36,7 @@ Have an 8086 simulator
 https://github.com/Moustafa-Daebis/Monoalphabetic-Substitution-Encryption/assets/100102025/0611e64c-2cc5-40e6-be3b-512c45174e6e
 
 
-## Author
-#Moustafa Daebis
 
-
-## Acknowledgments
 
 
 
